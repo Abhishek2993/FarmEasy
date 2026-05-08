@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.FarmEasy" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#2C5F2D</item>
+        <item name="android:navigationBarColor">#FAFAFA</item>
+    </style>
+
+    <style name="Theme.FarmEasy.Splash" parent="Theme.FarmEasy">
+        <item name="android:statusBarColor">#2C5F2D</item>
+        <item name="android:navigationBarColor">#8B6914</item>
+    </style>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108"
+    android:tint="#FFFFFF">
+    <!-- Simple leaf/plant icon for FarmEasy -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,28c-8,0 -18,8 -22,20c-4,12 -2,24 4,30c2,2 4,2 6,0c4,-4 6,-10 6,-18c0,-2 0,-4 -1,-6c2,4 3,8 3,14c0,4 -1,8 -3,12c-1,2 0,4 2,4c1,0 2,0 3,-1c6,-6 10,-16 10,-26c0,-4 -1,-8 -2,-12c2,4 4,10 4,16c0,6 -2,12 -5,16c-1,2 -1,4 1,5c1,0 2,0 3,-1c8,-8 12,-20 10,-32c-2,-12 -10,-20 -19,-21z" />
+</vector>

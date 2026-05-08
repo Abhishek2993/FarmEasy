@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FarmEasy</string>
+    <string name="tagline">Smart Farming Made Simple</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_irrigation">Irrigation</string>
+    <string name="nav_history">History</string>
+    <string name="nav_alerts">Alerts</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">Farm Dashboard</string>
+    <string name="soil_moisture">Soil Moisture</string>
+    <string name="soil_temperature">Soil Temperature</string>
+    <string name="ambient_temperature">Ambient Temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="rainfall">Rainfall</string>
+    <string name="connection_status">Connection Status</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="last_updated">Last Updated</string>
+    <string name="crop_stage">Current Crop Stage</string>
+    <string name="yield_projection">Yield Projection</string>
+    <string name="next_irrigation">Next Irrigation</string>
+    <string name="quick_info">Quick Info</string>
+    <string name="battery_status">ESP32 Battery</string>
+
+    <!-- Moisture Status -->
+    <string name="moisture_critical_dry">Critical Dry</string>
+    <string name="moisture_low">Low</string>
+    <string name="moisture_optimal">Optimal</string>
+    <string name="moisture_waterlogged">Waterlogged Risk</string>
+
+    <!-- Temperature Status -->
+    <string name="temp_cold_stress">Cold Stress</string>
+    <string name="temp_optimal">Optimal</string>
+    <string name="temp_heat_stress">Heat Stress</string>
+
+    <!-- Rainfall Status -->
+    <string name="rain_none">No Rain</string>
+    <string name="rain_light">Light Rain</string>
+    <string name="rain_moderate">Moderate Rain</string>
+    <string name="rain_heavy">Heavy Rain</string>
+
+    <!-- Crop Stages -->
+    <string name="stage_formative">Formative Phase</string>
+    <string name="stage_grand_growth">Grand Growth Phase</string>
+    <string name="stage_maturation">Maturation Phase</string>
+
+    <!-- Bluetooth -->
+    <string name="bluetooth_title">Bluetooth Connection</string>
+    <string name="scan_for_devices">Scan for Devices</string>
+    <string name="stop_scan">Stop Scan</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="reconnect">Reconnect</string>
+    <string name="bluetooth_not_supported">Bluetooth not supported on this device</string>
+    <string name="enable_bluetooth">Please enable Bluetooth</string>
+    <string name="setup_guide">Setup Guide</string>
+
+    <!-- Irrigation -->
+    <string name="irrigation_title">Irrigation Management</string>
+    <string name="zone_status">Zone Status</string>
+    <string name="valve_open">Valve OPEN</string>
+    <string name="valve_closed">Valve CLOSED</string>
+    <string name="water_usage">Water Usage This Week</string>
+    <string name="today_schedule">Today\'s Schedule</string>
+    <string name="manual_override">Manual Override</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Yield -->
+    <string name="yield_title">Yield Prediction</string>
+    <string name="current_yield">Current Yield Projection</string>
+    <string name="tonnes_per_hectare">t/ha</string>
+    <string name="season_trend">Season Yield Trend</string>
+    <string name="key_factors">Key Factors</string>
+    <string name="ai_insights">AI Insights</string>
+
+    <!-- History -->
+    <string name="history_title">History &amp; Analytics</string>
+    <string name="six_hours">6 Hours</string>
+    <string name="twenty_four_hours">24 Hours</string>
+    <string name="seven_days">7 Days</string>
+    <string name="thirty_days">30 Days</string>
+    <string name="statistics">Statistics</string>
+    <string name="min">Min</string>
+    <string name="max">Max</string>
+    <string name="avg">Avg</string>
+
+    <!-- Weather -->
+    <string name="weather_title">Weather</string>
+    <string name="forecast_48h">48-Hour Forecast</string>
+    <string name="weather_alerts">Weather Alerts</string>
+    <string name="wind">Wind</string>
+    <string name="clouds">Clouds</string>
+    <string name="rain">Rain</string>
+
+    <!-- Alerts -->
+    <string name="alerts_title">Alerts</string>
+    <string name="mark_all_read">Read All</string>
+    <string name="no_alerts">No alerts</string>
+    <string name="unread">unread</string>
+    <string name="category_all">All</string>
+    <string name="category_weather">Weather</string>
+    <string name="category_irrigation">Irrigation</string>
+    <string name="category_fertilizer">Fertilizer</string>
+    <string name="category_yield">Yield</string>
+    <string name="category_system">System</string>
+    <string name="category_market">Market</string>
+
+    <!-- Farm Profile -->
+    <string name="farm_profile_title">Farm Profile</string>
+    <string name="farm_name">Farm Name</string>
+    <string name="location">Location</string>
+    <string name="detect_location">Detect</string>
+    <string name="farm_area">Farm Area (Acres)</string>
+    <string name="sugarcane_variety">Sugarcane Variety</string>
+    <string name="planting_season">Planting Season</string>
+    <string name="planting_date">Planting Date</string>
+    <string name="ratoon_cycle">Ratoon Cycle</string>
+    <string name="irrigation_zones">Number of Irrigation Zones</string>
+    <string name="water_source">Water Source</string>
+    <string name="electricity_window">Electricity Availability Window</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="saving">Saving…</string>
+    <string name="profile_saved">Farm profile saved successfully!</string>
+
+    <!-- Market -->
+    <string name="market_title">Market Prices</string>
+    <string name="current_price">Current Sugarcane Price</string>
+    <string name="per_tonne">per tonne</string>
+    <string name="price_trend">30-Day Price Trend</string>
+    <string name="harvest_suggestion">Harvest Timing Suggestion</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="language">Language</string>
+    <string name="units">Units</string>
+    <string name="temperature">Temperature</string>
+    <string name="area">Area</string>
+    <string name="notifications">Notifications</string>
+    <string name="bluetooth_settings">Bluetooth</string>
+    <string name="auto_reconnect">Auto-Reconnect</string>
+    <string name="auto_reconnect_desc">Automatically reconnect to last device</string>
+    <string name="cloud_sync">Cloud Sync</string>
+    <string name="sync_now">Sync Now</string>
+    <string name="last_sync">Last sync</string>
+    <string name="edit_farm_profile">Edit Farm Profile</string>
+    <string name="about">About</string>
+    <string name="university">MIT ADT University, Pune</string>
+    <string name="team">Team: Meet Chapale, Pratham Bhosale, Yash Gaikwad, Abhishek Maurya</string>
+
+    <!-- General -->
+    <string name="offline_message">Working offline — data will sync when connected</string>
+    <string name="just_now">Just now</string>
+    <string name="no_data">No data available</string>
+    <string name="retry">Retry</string>
+    <string name="ok">OK</string>
+</resources>

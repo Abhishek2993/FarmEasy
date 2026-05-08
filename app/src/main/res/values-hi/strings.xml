@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FarmEasy</string>
+    <string name="tagline">स्मार्ट खेती आसान बनाई</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">डैशबोर्ड</string>
+    <string name="nav_irrigation">सिंचाई</string>
+    <string name="nav_history">इतिहास</string>
+    <string name="nav_alerts">अलर्ट</string>
+    <string name="nav_settings">सेटिंग्स</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">खेत डैशबोर्ड</string>
+    <string name="soil_moisture">मिट्टी की नमी</string>
+    <string name="soil_temperature">मिट्टी का तापमान</string>
+    <string name="ambient_temperature">वातावरण तापमान</string>
+    <string name="humidity">आर्द्रता</string>
+    <string name="rainfall">वर्षा</string>
+    <string name="connection_status">कनेक्शन स्थिति</string>
+    <string name="connected">कनेक्टेड</string>
+    <string name="disconnected">डिस्कनेक्टेड</string>
+    <string name="last_updated">अंतिम अपडेट</string>
+    <string name="crop_stage">वर्तमान फसल चरण</string>
+    <string name="yield_projection">उपज अनुमान</string>
+    <string name="next_irrigation">अगली सिंचाई</string>
+    <string name="quick_info">त्वरित जानकारी</string>
+    <string name="battery_status">ESP32 बैटरी</string>
+
+    <!-- Moisture Status -->
+    <string name="moisture_critical_dry">गंभीर सूखा</string>
+    <string name="moisture_low">कम</string>
+    <string name="moisture_optimal">उचित</string>
+    <string name="moisture_waterlogged">जलभराव जोखिम</string>
+
+    <!-- Temperature Status -->
+    <string name="temp_cold_stress">ठंड का तनाव</string>
+    <string name="temp_optimal">उचित</string>
+    <string name="temp_heat_stress">गर्मी का तनाव</string>
+
+    <!-- Rainfall Status -->
+    <string name="rain_none">बारिश नहीं</string>
+    <string name="rain_light">हल्की बारिश</string>
+    <string name="rain_moderate">मध्यम बारिश</string>
+    <string name="rain_heavy">भारी बारिश</string>
+
+    <!-- Crop Stages -->
+    <string name="stage_formative">निर्माण चरण</string>
+    <string name="stage_grand_growth">महान विकास चरण</string>
+    <string name="stage_maturation">परिपक्वता चरण</string>
+
+    <!-- Bluetooth -->
+    <string name="bluetooth_title">ब्लूटूथ कनेक्शन</string>
+    <string name="scan_for_devices">उपकरण खोजें</string>
+    <string name="stop_scan">खोज बंद करें</string>
+    <string name="disconnect">डिस्कनेक्ट</string>
+    <string name="reconnect">पुनः कनेक्ट</string>
+    <string name="bluetooth_not_supported">इस उपकरण पर ब्लूटूथ उपलब्ध नहीं है</string>
+    <string name="enable_bluetooth">कृपया ब्लूटूथ चालू करें</string>
+    <string name="setup_guide">सेटअप गाइड</string>
+
+    <!-- Irrigation -->
+    <string name="irrigation_title">सिंचाई प्रबंधन</string>
+    <string name="zone_status">ज़ोन स्थिति</string>
+    <string name="valve_open">वाल्व खुला</string>
+    <string name="valve_closed">वाल्व बंद</string>
+    <string name="water_usage">इस सप्ताह पानी का उपयोग</string>
+    <string name="today_schedule">आज का कार्यक्रम</string>
+    <string name="manual_override">मैनुअल ओवरराइड</string>
+    <string name="start">शुरू</string>
+    <string name="stop">बंद</string>
+    <string name="confirm">पुष्टि</string>
+    <string name="cancel">रद्द</string>
+
+    <!-- Yield -->
+    <string name="yield_title">उपज अनुमान</string>
+    <string name="current_yield">वर्तमान उपज अनुमान</string>
+    <string name="tonnes_per_hectare">टन/हेक्टेयर</string>
+    <string name="season_trend">मौसम उपज रुझान</string>
+    <string name="key_factors">प्रमुख कारक</string>
+    <string name="ai_insights">AI अंतर्दृष्टि</string>
+
+    <!-- Settings -->
+    <string name="settings_title">सेटिंग्स</string>
+    <string name="language">भाषा</string>
+    <string name="units">इकाइयाँ</string>
+    <string name="temperature">तापमान</string>
+    <string name="area">क्षेत्र</string>
+    <string name="notifications">सूचनाएं</string>
+    <string name="cloud_sync">क्लाउड सिंक</string>
+    <string name="sync_now">अभी सिंक करें</string>
+    <string name="about">जानकारी</string>
+    <string name="save_profile">प्रोफ़ाइल सेव करें</string>
+    <string name="offline_message">ऑफ़लाइन — कनेक्ट होने पर डेटा सिंक होगा</string>
+</resources>

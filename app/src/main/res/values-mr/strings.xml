@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FarmEasy</string>
+    <string name="tagline">स्मार्ट शेती सोपी केली</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">डॅशबोर्ड</string>
+    <string name="nav_irrigation">सिंचन</string>
+    <string name="nav_history">इतिहास</string>
+    <string name="nav_alerts">सूचना</string>
+    <string name="nav_settings">सेटिंग्ज</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">शेत डॅशबोर्ड</string>
+    <string name="soil_moisture">जमिनीतील ओलावा</string>
+    <string name="soil_temperature">जमिनीचे तापमान</string>
+    <string name="ambient_temperature">बाह्य तापमान</string>
+    <string name="humidity">आर्द्रता</string>
+    <string name="rainfall">पाऊस</string>
+    <string name="connection_status">कनेक्शन स्थिती</string>
+    <string name="connected">कनेक्ट झाले</string>
+    <string name="disconnected">डिस्कनेक्ट</string>
+    <string name="last_updated">शेवटचे अपडेट</string>
+    <string name="crop_stage">सध्याचा पीक टप्पा</string>
+    <string name="yield_projection">उत्पादन अंदाज</string>
+    <string name="next_irrigation">पुढील सिंचन</string>
+    <string name="quick_info">झटपट माहिती</string>
+    <string name="battery_status">ESP32 बॅटरी</string>
+
+    <!-- Moisture Status -->
+    <string name="moisture_critical_dry">अत्यंत कोरडे</string>
+    <string name="moisture_low">कमी</string>
+    <string name="moisture_optimal">योग्य</string>
+    <string name="moisture_waterlogged">पाणी साचण्याचा धोका</string>
+
+    <!-- Temperature Status -->
+    <string name="temp_cold_stress">थंडीचा ताण</string>
+    <string name="temp_optimal">योग्य</string>
+    <string name="temp_heat_stress">उष्णतेचा ताण</string>
+
+    <!-- Rainfall Status -->
+    <string name="rain_none">पाऊस नाही</string>
+    <string name="rain_light">हलका पाऊस</string>
+    <string name="rain_moderate">मध्यम पाऊस</string>
+    <string name="rain_heavy">जोरदार पाऊस</string>
+
+    <!-- Crop Stages -->
+    <string name="stage_formative">निर्मिती टप्पा</string>
+    <string name="stage_grand_growth">महावाढ टप्पा</string>
+    <string name="stage_maturation">परिपक्वता टप्पा</string>
+
+    <!-- Bluetooth -->
+    <string name="bluetooth_title">ब्ल्यूटूथ कनेक्शन</string>
+    <string name="scan_for_devices">उपकरणे शोधा</string>
+    <string name="stop_scan">शोध बंद करा</string>
+    <string name="disconnect">डिस्कनेक्ट करा</string>
+    <string name="reconnect">पुन्हा कनेक्ट करा</string>
+    <string name="bluetooth_not_supported">या उपकरणावर ब्ल्यूटूथ उपलब्ध नाही</string>
+    <string name="enable_bluetooth">कृपया ब्ल्यूटूथ चालू करा</string>
+    <string name="setup_guide">सेटअप मार्गदर्शक</string>
+
+    <!-- Irrigation -->
+    <string name="irrigation_title">सिंचन व्यवस्थापन</string>
+    <string name="zone_status">झोन स्थिती</string>
+    <string name="valve_open">वाल्व उघडा</string>
+    <string name="valve_closed">वाल्व बंद</string>
+    <string name="water_usage">या आठवड्याचा पाणी वापर</string>
+    <string name="today_schedule">आजचे वेळापत्रक</string>
+    <string name="manual_override">मॅन्युअल ओव्हरराइड</string>
+    <string name="start">सुरू करा</string>
+    <string name="stop">थांबवा</string>
+    <string name="confirm">पुष्टी करा</string>
+    <string name="cancel">रद्द करा</string>
+
+    <!-- Yield -->
+    <string name="yield_title">उत्पादन अंदाज</string>
+    <string name="current_yield">सध्याचा उत्पादन अंदाज</string>
+    <string name="tonnes_per_hectare">टन/हेक्टर</string>
+    <string name="season_trend">हंगाम उत्पादन कल</string>
+    <string name="key_factors">प्रमुख घटक</string>
+    <string name="ai_insights">AI अंतर्दृष्टी</string>
+
+    <!-- Settings -->
+    <string name="settings_title">सेटिंग्ज</string>
+    <string name="language">भाषा</string>
+    <string name="units">एकके</string>
+    <string name="temperature">तापमान</string>
+    <string name="area">क्षेत्रफळ</string>
+    <string name="notifications">सूचना</string>
+    <string name="cloud_sync">क्लाउड सिंक</string>
+    <string name="sync_now">आता सिंक करा</string>
+    <string name="about">माहिती</string>
+    <string name="save_profile">प्रोफाइल जतन करा</string>
+    <string name="offline_message">ऑफलाइन — कनेक्ट झाल्यावर डेटा सिंक होईल</string>
+</resources>
